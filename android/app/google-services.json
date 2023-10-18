@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136653308352",
+    "project_id": "chatapp-236de",
+    "storage_bucket": "chatapp-236de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136653308352:android:30e40bce7e565f9a6bc825",
+        "android_client_info": {
+          "package_name": "com.example.bomamessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2ERYZwxOmaMw46xmE15VNU8Vq5hnvwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
